@@ -1,0 +1,32 @@
+1. Contador Simples
+Crie um programa que conte de 1 a 10 e exiba os números na tela usando while. - OK
+
+2. Adivinhe o Número
+O programa deve gerar um número aleatório entre 1 e 100, e o usuário deve adivinhar o número. O jogo continua até que ele acerte. O programa deve dar dicas se o número digitado for maior ou menor que o número correto. - OK
+
+3. Soma de Números Positivos
+Peça ao usuário para inserir números inteiros. Some os números positivos e pare quando o usuário digitar um número negativo. Exiba a soma total no final. - OK
+
+4. Menu Interativo
+Crie um programa que exibe um menu com opções (exemplo: 1 - Dizer "Olá", 2 - Exibir a data atual, 3 - Sair). O programa só encerra quando o usuário escolher a opção de sair. - OK
+
+5. Verificação de Senha
+Peça para o usuário digitar uma senha e continue pedindo até que ele digite a senha correta. - OK
+
+6. Contagem Regressiva
+Solicite um número ao usuário e faça uma contagem regressiva até zero. 
+
+7. Média de Notas
+Peça notas ao usuário até que ele digite um número negativo. Depois, exiba a média das notas digitadas.
+
+
+8. Números Pares
+Peça um número ao usuário e exiba todos os números pares de 0 até esse número usando while. 
+
+9. Tabuada Interativa
+Peça ao usuário para inserir um número e exiba a tabuada desse número de 1 a 10. O programa só deve parar se o usuário digitar 0. - 
+
+10. Simulação de Caixa Eletrônico
+Peça um valor de saque ao usuário e exiba quantas notas de R$50, R$20, R$10 e R$5 serão entregues. O programa deve continuar pedindo valores até que o usuário digite 0.
+
+Quer que eu implemente algum desses desafios como exemplo? 😊
