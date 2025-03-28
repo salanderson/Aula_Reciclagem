@@ -14,19 +14,19 @@ Crie um programa que exibe um menu com opções (exemplo: 1 - Dizer "Olá", 2 - 
 Peça para o usuário digitar uma senha e continue pedindo até que ele digite a senha correta. - OK
 
 6. Contagem Regressiva
-Solicite um número ao usuário e faça uma contagem regressiva até zero. 
+Solicite um número ao usuário e faça uma contagem regressiva até zero.  - OK
 
 7. Média de Notas
-Peça notas ao usuário até que ele digite um número negativo. Depois, exiba a média das notas digitadas.
+Peça notas ao usuário até que ele digite um número negativo. Depois, exiba a média das notas digitadas. - OK
 
 
 8. Números Pares
-Peça um número ao usuário e exiba todos os números pares de 0 até esse número usando while. 
+Peça um número ao usuário e exiba todos os números pares de 0 até esse número usando while.  - Ok
 
 9. Tabuada Interativa
-Peça ao usuário para inserir um número e exiba a tabuada desse número de 1 a 10. O programa só deve parar se o usuário digitar 0. - 
+Peça ao usuário para inserir um número e exiba a tabuada desse número de 1 a 10. O programa só deve parar se o usuário digitar 0. - OK
 
 10. Simulação de Caixa Eletrônico
-Peça um valor de saque ao usuário e exiba quantas notas de R$50, R$20, R$10 e R$5 serão entregues. O programa deve continuar pedindo valores até que o usuário digite 0.
+Peça um valor de saque ao usuário e exiba quantas notas de R$50, R$20, R$10 e R$5 serão entregues. O programa deve continuar pedindo valores até que o usuário digite 0. OK
 
 Quer que eu implemente algum desses desafios como exemplo? 😊

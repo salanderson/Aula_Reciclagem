@@ -1,5 +1,5 @@
 '''
-Adivinhe o Número
+2 - Adivinhe o Número
 O programa deve gerar um número aleatório entre 1 e 100, e o usuário deve adivinhar
 o número. O jogo continua até que ele acerte. O programa deve dar dicas se o número
 digitado for maior ou menor que o número correto.
